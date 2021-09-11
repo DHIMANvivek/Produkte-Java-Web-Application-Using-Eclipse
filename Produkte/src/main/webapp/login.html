@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Produkte By Vivek Dhiman</title>
+
+<body style="background-color: powderblue;">
+
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script
+		src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase-app.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase-auth.js"></script>
+	<script
+		src="https://www.gstatic.com/firebasejs/3.7.4/firebase-database.js"></script>
+	<script
+		src="https://www.gstatic.com/firebasejs/3.7.4/firebase-messaging.js"></script>
+
+	<script>
+		// Initialize Firebase
+		var config = {
+			apiKey : "AIzaSyB3kBglL01assQDBQuzZQY4sNwmMUUf0EQ",
+			authDomain : "produkte-e7705.firebaseapp.com",
+			databaseURL : "https://produkte-e7705-default-rtdb.firebaseio.com",
+			projectId : "produkte-e7705",
+			storageBucket : "produkte-e7705.appspot.com",
+			messagingSenderId : "1004298518253",
+			appId : "1:1004298518253:web:349077a4ef9bd7eb7b96e4"
+		};
+		firebase.initializeApp(config);
+	</script>
+
+
+	<script
+		src="https://cdn.firebase.com/libs/firebaseui/1.0.0/firebaseui.js"></script>
+	<link type="text/css" rel="stylesheet"
+		href="https://cdn.firebase.com/libs/firebaseui/1.0.0/firebaseui.css" />
+	<script type="text/javascript">
+		// FirebaseUI config.
+		var uiConfig = {
+			signInSuccessUrl : 'success.html',
+			signInOptions : [
+			// Leave the lines as is for the providers you want to offer your users.
+			firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+
+			firebase.auth.EmailAuthProvider.PROVIDER_ID ],
+			// Terms of service url.
+			tosUrl : '<your-tos-url>'
+		};
+
+		// Initialize the FirebaseUI Widget using Firebase.
+		var ui = new firebaseui.auth.AuthUI(firebase.auth());
+		// The start method will wait until the DOM is loaded.
+		ui.start('#firebaseui-auth-container', uiConfig);
+	</script>
+</head>
+<body>
+	<br>
+	<div class="container">
+		<div class="jumbotron">
+			<center>
+				<h1>
+					<b><p class="one">Welcome to Produkte App</p></b>
+				</h1>
+			</center>
+
+			<center>
+				<p>
+				<h3>MANAGE Products Online</h3>
+				</p>
+			</center>
+			<br>
+			<center>
+				<table border="1" width="400">
+					<thead align="center">
+						<tr>
+							<th>Github</th>
+							<th>Youtube</th>
+							<th>Linkedin</th>
+						</tr>
+					</thead>
+
+					<tbody align="center">
+						<tr>
+							<td><a href="https://github.com/THINKandroid01">Follow</a></td>
+							<td><a
+								href="https://www.youtube.com/channel/UC0G464PLcom78IyfzaQTi7A">Follow</a></td>
+							<td><a
+								href="https://www.linkedin.com/in/vivek-dhiman-6092541b7/">Follow</a></td>
+						</tr>
+					</tbody>
+				</table>
+			</center>
+		</div>
+		<br>
+
+
+		<style>
+p.one {
+	border-style: solid;
+	border-color: hsl(0, 100%, 50%); /* red */
+}
+
+p.two {
+	border-style: solid;
+	border-color: hsl(240, 100%, 50%); /* blue */
+}
+
+p.three {
+	border-style: solid;
+	border-color: hsl(0, 0%, 73%); /* grey */
+}
+</style>
+
+		<style>
+body {
+	background-color: yellow;
+}
+
+h1 {
+	background-color: yellow;
+}
+
+h5 {
+	background-color: yellow;
+}
+
+div {
+	background-color: white;
+}
+</style>
+
+
+
+		<div id="firebaseui-auth-container"></div>
+
+		<br>
+		<br>
+		<br>
+		<br>
+
+
+ 
+
+		<div class="text-center p-4"
+			style="background-color: rgba(0, 0, 0, 0.05);">
+			<h5>
+				<p class="one">
+					© 2021 Copyright: <a class="text-reset fw-bold"
+						href="cardview.html">Produkte App - Vivek Dhiman</a>
+				</p>
+			</h5>
+		</div>
+</body>
+</html>

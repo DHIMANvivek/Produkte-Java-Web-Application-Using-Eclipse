@@ -1,0 +1,75 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-card {
+	background-color: transparent;
+	width: 200px;
+	height: 200px;
+	perspective: 1000px;
+}
+
+.flip-card-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	transition: transform 0.6s;
+	transform-style: preserve-3d;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+	transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.flip-card-front {
+	background-color: #bbb;
+	color: black;
+}
+
+.flip-card-back {
+	background-color: #2980b9;
+	color: white;
+	transform: rotateY(180deg);
+}
+</style>
+</head>
+<body>
+
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<center>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="https://androidtask.com/VIVEK.jpg"
+						alt="Vivek Dhiman" style="width: 200px; height: 200px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Vivek Dhiman</h1>
+					<p>Information Technology & Engineering</p>
+					<p>We love to grow together</p>
+				</div>
+	</center>
+	</div>
+	</div>
+	<!--card-->
+</body>
+</html>
