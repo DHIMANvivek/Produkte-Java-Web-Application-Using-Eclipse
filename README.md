@@ -27,5 +27,5 @@ How Our Project Looks Like :
 Video Explanation With Voice
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AOn4CLBPLjeEwvynElS3A2Z8kBX4GM817g/0.jpg)](https://www.youtube.com/watch?v=TisSeeRNB-A)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/TisSeeRNB-A/mqdefault_6s.webp?du=3000&sqp=CODv9okG&rs=AOn4CLBPLjeEwvynElS3A2Z8kBX4GM817g)](https://www.youtube.com/watch?v=TisSeeRNB-A)
 
