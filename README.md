@@ -10,6 +10,20 @@ Pdf Documentation :
 [produkte Documentation.pdf](https://github.com/DHIMANvivek/Produkte-Java-Web-Application-Using-Eclipse/files/7149343/produkte.Documentation.pdf)
 
 
+
+
+Video Explanation With Voice
+
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/TisSeeRNB-A/mqdefault_6s.webp?du=3000&sqp=CODv9okG&rs=AOn4CLBPLjeEwvynElS3A2Z8kBX4GM817g)](https://www.youtube.com/watch?v=TisSeeRNB-A)
+
+
+
+MongoDB Connectivity Video 
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Fa0oii2hn0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVNjFI9B4Bewu3mJ3CydIwjTuAhQ)](https://www.youtube.com/playlist?list=PLJK8Pik8ZzCgxI9atCmkWADJw_YzVilq6)
+
+
 How Our Project Looks Like :
 
 ![first page](https://user-images.githubusercontent.com/53940939/132982537-ae3f1ba9-c46d-4de4-b8a4-827b2d48f88d.png)
@@ -24,16 +38,6 @@ How Our Project Looks Like :
 
 
 
-Video Explanation With Voice
-
-
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/TisSeeRNB-A/mqdefault_6s.webp?du=3000&sqp=CODv9okG&rs=AOn4CLBPLjeEwvynElS3A2Z8kBX4GM817g)](https://www.youtube.com/watch?v=TisSeeRNB-A)
-
-
-
-MongoDB Connectivity Video 
-
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Fa0oii2hn0A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVNjFI9B4Bewu3mJ3CydIwjTuAhQ)](https://www.youtube.com/playlist?list=PLJK8Pik8ZzCgxI9atCmkWADJw_YzVilq6)
 
 
 
