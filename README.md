@@ -27,11 +27,5 @@ How Our Project Looks Like :
 Video Explanation With Voice
 
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=TisSeeRNB-A" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=TisSeeRNB-A"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AOn4CLBPLjeEwvynElS3A2Z8kBX4GM817g/0.jpg)](https://www.youtube.com/watch?v=TisSeeRNB-A)
 
